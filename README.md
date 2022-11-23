@@ -10,13 +10,13 @@
 
 #### Petőfi
 
-1.	Hozz létre egy repository-t (repót, tárolót) irodalom néven. A létrehozáskor add meg, hogy tartalmazzon `README.md` fájlt!
+1.	Hozz létre egy repository-t (repót, tárolót) `irodalom` néven. A létrehozáskor add meg, hogy tartalmazzon `README.md` fájlt!
 
 2.	Klónozd le a `git clone` parancs alkalmazásával ssh használatával a repót a `koltok-1` mappába.
 
 3.	Nyisd meg a helyi gépen lévő repót.
 
-4.	Hozz létre egy `TODO.md` fájl, benne az alábbi tartalommal. (A megfelelő markdown kód előállításhoz használhatod [az előkészített forrást](forras/todo_md_forras.txt))
+4.	Hozz létre egy `TODO.md` fájl, benne az alábbi tartalommal. (A megfelelő markdown kód előállításhoz használhatod [az előkészített forrást](forras/todo_md_forras.txt).)
 
 > - [x] A távoli repo klónozása.
 > - [ ] Petőfi oldalának létrehozása.
@@ -26,7 +26,7 @@
 
 5.	Hozz létre egy mappát koltok néven, benne egy petofi.md fájlt.
 
-6.	A [minta](kiegeszitok/minta_petofi.pdf) alapján alakítsd ki a [petofi.txt](forras/petofi_md_forras.txt) felhasználásával a fájl tartalmát markdown formázások alkalmazásával. Ne felejtsd el a repóhoz adni a [képfájlt](forras/Petofi_haza_Kiskunfelegyhazan.jpg)! (Ha most nem szeretnél a markdown kóddal bajlódni, akkor használhatód [az előkészített forrást](forras/petofi_md_forras.txt))
+6.	A [minta](kiegeszitok/minta_petofi.pdf) alapján alakítsd ki a [petofi.txt](forras/petofi_md_forras.txt) felhasználásával a fájl tartalmát markdown formázások alkalmazásával. Ne felejtsd el a repóhoz adni a [képfájlt](forras/Petofi_haza_Kiskunfelegyhazan.jpg)! (Ha most nem szeretnél a markdown kóddal bajlódni, akkor használhatod [az előkészített forrást](forras/petofi_md_forras.txt))
 
 7.	A `TODO.md` módosításával jelöld meg, hogy elvégezted a "Petőfi oldalának létrehozása" feladatot:
 
@@ -38,7 +38,7 @@
 
 10.	A `push` parancs kiadásával szinkronizáld a helyi változásokat a távoli repóval.
 
-11.	Klónozd le a git clone parancs alkalmazásával repót, most a koltok-2 mappába. A következő feladatokat ebben a mappában végezd egyéb utasításig.
+11.	Klónozd le a git clone parancs alkalmazásával repót, most a `koltok-2` mappába. A következő feladatokat ebben a mappában végezd egyéb utasításig.
 
 12.	A `README.md` fájlban hozz létre hivatkozást a petofi.md fájlra ([lustábbak számára előkészített forrás :)](forras/link_md_forras.txt))).
 
