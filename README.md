@@ -18,11 +18,13 @@
 
 4.	Hozzon létre egy TODO.md fájl, benne az alábbi tartalommal.
 
-- [x] A távoli repo klónozása.
-- [ ] Petőfi oldalának létrehozása.
-- [ ] A helyi repo felküldése a távoli repóba.
-- [ ] A távoli repo klónozása külön mappába.
-- [ ] A README.md fájlban link létrehozása a petofi.md fájlra.
+> - [x] A távoli repo klónozása.
+> - [ ] Petőfi oldalának létrehozása.
+> - [ ] A helyi repo felküldése a távoli repóba.
+> - [ ] A távoli repo klónozása külön mappába.
+> - [ ] A README.md fájlban link létrehozása a petofi.md fájlra.
+
+A megfelelő markdown kód előállításhoz használhatja [az előkészített forrást](forras/todo_forras.txt)
 
 5.	Hozzon létre egy mappát koltok néven, benne egy petofi.md fájlt.
 
