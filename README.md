@@ -16,13 +16,14 @@
 
 3.	Nyisd meg a helyi gépen lévő repót.
 
-4.	Hozz létre egy `TODO.md` fájl, benne az alábbi tartalommal. (A megfelelő markdown kód előállításhoz használhatod [az előkészített forrást](forras/todo_md_forras.txt).)
+4.	Hozz létre egy `TODO.md` fájl az alábbi minta szerinti tartalommal.  (A megfelelő markdown kód előállításhoz használhatod [az előkészített forrást](forras/todo_md_forras.txt).)
 
 > - [x] A távoli repo klónozása.
 > - [ ] Petőfi oldalának létrehozása.
 > - [ ] A helyi repo felküldése a távoli repóba.
 > - [ ] A távoli repo klónozása külön mappába.
-> - [ ] A README.md fájlban link létrehozása a petofi.md fájlra.
+> - [ ] A `README.md` fájlban link létrehozása a `petofi.md` fájlra.
+
 
 5.	Hozz létre egy mappát koltok néven, benne egy petofi.md fájlt.
 
